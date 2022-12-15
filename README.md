@@ -1,6 +1,4 @@
-# R-code
-
-Bayesian Semi-Supervised Hidden Markov Models (HMM) for POS-tagging
+##Bayesian Semi-Supervised Hidden Markov Models (HMM) for POS-tagging
 
 Bayesian semi-supervised Hidden Markov Models can be used for Part-of-speech-tagging. 
 In summary, the HMM is a probabilistic model used to model hidden non-observable states by observing past sequences. 
