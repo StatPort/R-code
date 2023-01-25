@@ -3,7 +3,7 @@
 Bayesian semi-supervised Hidden Markov Models can be used for Part-of-speech-tagging. 
 In summary, the HMM is a probabilistic model used to model hidden non-observable states by observing past sequences. 
 
-In this study, which is a part of a group project, we have observed sequences of words, tokens, where their respective POS category such as noun, verb, adjective, etc. are seen as hidden latent states. Given a new sentence with an unobserved state sequence, the models predict the most probable hidden state POS sequence using the Viterbi algorithm.
+In this study, which is a part of a group project, we have observed sequences of words, tokens, where their respective POS category such as noun, verb, adjective, etc. are seen as hidden latent states. Given a new sentence with an unobserved state sequence, the models predict the most probable hidden state POS sequence using the Viterbi algorithm. Stan model is based on suggested models in Stan User’s Guide.  
 
 This type of stochastic method for POS-tagging is frequently used as a preprocessing task in other natural language processing (NLP) analyses.
 
