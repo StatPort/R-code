@@ -1,3 +1,4 @@
+// Model based on suggested models in Stan User’s Guide.  
 // HMM MODEL STAN 
 
 data {
